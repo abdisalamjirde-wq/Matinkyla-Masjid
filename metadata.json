@@ -1,0 +1,8 @@
+{
+  "name": "Matinkylä Masjid Admin Portal",
+  "description": "A sleek, high-precision administrative dashboard for Matinkylä Masjid to manage members, monitor dynamic financial tracking, and process bank statements with smart auto-recognition and matching rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
